@@ -1,6 +1,6 @@
 <template>
     <div>
-        <router-view></router-view>
+        Weather
     </div>
 </template>
 
@@ -10,6 +10,6 @@
     }
 </script>
 
-<style>
+<style scoped>
 
 </style>
